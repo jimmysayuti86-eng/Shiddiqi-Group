@@ -1,0 +1,9 @@
+QUICK START — SHIDDIQI GROUP WEBSITE
+
+1. Ekstrak ZIP.
+2. Buka index.html untuk melihat website di komputer.
+3. Untuk online, unggah SEMUA isi folder (index.html, style.css, script.js, dan folder assets) ke root folder hosting, misalnya public_html.
+4. Jangan ubah letak folder assets karena gambar website dibaca dari folder tersebut.
+5. Google Forms telah ditautkan dan di-embed pada Contact Us. Pastikan formulir itu tetap dipublikasikan dan menerima respons.
+
+Sebelum live, pastikan info kontak, nama legal unit, estimasi omzet, luas/keliling tanah dan detail properti sudah disetujui. Dokumen memiliki perbedaan nama unit pada uraian Tani dan Ternak yang ditandai di tampilan detail.
